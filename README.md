@@ -1,4 +1,4 @@
-![Hello GIF](https://camo.githubusercontent.com/89a46b75cb2af1de643c4ae5e510aff5c0fa30e7e2a9cdfa5e4ab46eae39a19e/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
+![Hello GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam0yaHY4dDZtcjJhZTljbzNqajBrODVmbXA2MzMxaGxpNWppMnQ5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif)
 
 
 # Hi 👋I'm Tuan Anh
