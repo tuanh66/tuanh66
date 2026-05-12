@@ -1,4 +1,6 @@
-![Hello GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam0yaHY4dDZtcjJhZTljbzNqajBrODVmbXA2MzMxaGxpNWppMnQ5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam0yaHY4dDZtcjJhZTljbzNqajBrODVmbXA2MzMxaGxpNWppMnQ5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif" alt="Hello GIF" width="420" />
+</p>
 
 
 # Hi 👋I'm Tuan Anh
