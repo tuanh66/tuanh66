@@ -39,6 +39,6 @@
 ## 🧰 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ai,python,go,nodejs,bash,git,github,linux,docker,cloudflare&perline=7" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,bash,bootstrap,tailwind,php,laravel,java,cs,dotnet,flutter,dart,git,github,mysql,mongodb,sqlite,docker,postman,linux,cloudflare,figma&perline=8" alt="skills" />
   </a>
 </p>
